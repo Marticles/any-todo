@@ -6,6 +6,7 @@
 .settings
 .springBeans
 /target/
+/out/
 
 ### IntelliJ IDEA ###
 .idea

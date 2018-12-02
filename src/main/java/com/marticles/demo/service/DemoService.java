@@ -6,8 +6,7 @@ import com.marticles.simplemvc.annotation.Service;
 @Service
 public class DemoService implements IDemoService {
 
-
     public String test(String str) {
-        return str;
+        return "Service "+str;
     }
 }
